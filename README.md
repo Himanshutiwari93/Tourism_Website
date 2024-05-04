@@ -13,7 +13,7 @@ ADVENTURE - "Where Every Journey Begins"
 [Tourism website]( https://himanshutiwari93.github.io/Tourism_Website/)
 ## 👓 Preview
 
-<img src= "https://github.com/Himanshutiwari93/Tourism_Website/assets/113496568/f1a26fae-22ae-45ce-982e-2693f4ba20c2" width = "75%">
+<img src= "https://github.com/Himanshutiwari93/Tourism_Website/assets/113496568/abad1ef9-8d5b-4ba8-9ea3-12601af6b95c" width = "75%">
 <img src= "https://github.com/Himanshutiwari93/Tourism_Website/assets/113496568/6753181e-47e1-41cd-917c-af6312977add" width = "75%">
 <img src= "https://github.com/Himanshutiwari93/Tourism_Website/assets/113496568/c096dc85-286c-471e-b3d7-430e849fbb0c" width = "75%">
 
